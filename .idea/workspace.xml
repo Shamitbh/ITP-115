@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72ebe9eb-90c7-48ef-a267-70954bd6464d" name="Default" comment="" />
+    <ignored path="ITP 115.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ITP 115" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ITP115_a5_Bhatia_Shamit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a5_Bhatia_Shamit/ITP115_a5_Bhatia_Shamit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-179">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a8_Bhatia_Shamit/ITP115_a8_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Shapes.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-3-16/Shapes.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-8-16/Ranged.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-8-16/ZoomRanged.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-8-16/GameProgram.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a9_Bhatia_Shamit/Superhero.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/test.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-8-16/Weapon.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a10_Bhatia_Shamit/Human.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-10-16.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Superhero GUI/application.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a10_Bhatia_Shamit/Being.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Canvas ex 0 - template.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a11_Bhatia_Shamit/programGUI.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a11_Bhatia_Shamit/pizzaGUI.py" />
+        <option value="$PROJECT_DIR$/Assignments/Final Project/words.txt" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a10_Bhatia_Shamit/Vampire.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a10_Bhatia_Shamit/HumansAndVampires.py" />
+        <option value="$PROJECT_DIR$/Assignments/Final Project/Main.py" />
+        <option value="$PROJECT_DIR$/Assignments/Final Project/Scrabble.py" />
+        <option value="$PROJECT_DIR$/Assignments/Final Project/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a9_Bhatia_Shamit/SuperheroProgram.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l6_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 9-6-16.py" />
+        <option value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 9-13-16.py" />
+        <option value="$PROJECT_DIR$/Other/Job Desc. Test.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l1_Bhatia_Shamit_.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l2_Bhatia_Shamit.py" />
+        <option value="$USER_HOME$/ITP115_a1_Cai_Yuliangc.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l3_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l4_Bhatia_Shamit.py" />
+        <option value="$USER_HOME$/ITP115_l4_Cai_Yuliang.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l5a_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a8_Bhatia_Shamit/Palindrome.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l5_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a3_Bhatia_Shamit/ITP115_a3_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Assignments/ITP115_a4_Bhatia_Shamit/ITP115_a4_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l7_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Assignments/a4_repeat.py" />
+        <option value="$PROJECT_DIR$/Assignments/a5_repeat.py" />
+        <option value="$PROJECT_DIR$/Assignments/A5Repeat/a5_repeat.py" />
+        <option value="$USER_HOME$/ITP115_a3_Anand_Neha/ITP115_a3_Anand_Neha.py" />
+        <option value="$USER_HOME$/ITP115_a3_Cao_Xinyi/ITP115_a3_Cao_Xinyi.py" />
+        <option value="$USER_HOME$/ITP115_HW3_Echternach_Juliana/Assignment3.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l10_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/A6-notasgood.py" />
+        <option value="$PROJECT_DIR$/Labs/ITP115_l12_Bhatia_Shamit.py" />
+        <option value="$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/Coffee.py" />
+        <option value="$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/Barista.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP115_a5_Bhatia_Shamit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP 115" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ITP115_a10_Bhatia_Shamit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ITP 115">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ITP 115">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Lecture Notes">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ITP 115">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ITP115_a4_Bhatia_Shamit">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Shamit/Desktop/USC/USC Junior Year/ITP 115/Assignments/ITP115_a7_Bhatia_Shamit/ITP115_a7_Bhatia_Shamit.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ITP115_a4_Komberg_Jacob/ITP115_a4_Komberg_Jacob_part2.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lecture Notes/Lecture Notes 11-3-16" />
+      <recent name="$PROJECT_DIR$/Lecture Notes" />
+      <recent name="$PROJECT_DIR$/Other" />
+      <recent name="$PROJECT_DIR$/Assignments/ITP115_a5_Bhatia_Shamit" />
+      <recent name="$PROJECT_DIR$/Lecture Notes/Cities example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CoffeeShopProgram">
+    <configuration default="false" name="ITP115_a4_Kim_Christine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ITP115_a4_Kim_Christine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_a4_Komberg_Jacob_part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ITP115_a4_Komberg_Jacob" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ITP115_a4_Komberg_Jacob/ITP115_a4_Komberg_Jacob_part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_a4_Komberg_Jacob_part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ITP115_a4_Komberg_Jacob" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ITP115_a4_Komberg_Jacob/ITP115_a4_Komberg_Jacob_part2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_l12_Bhatia_Shamit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/ITP115_l12_Bhatia_Shamit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CoffeeShopProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/CoffeeShopProgram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_a3_Bhatia_Shamit" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ITP115_a3_Bhatia_Shamit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_a3_Bhatia_Shamit/ITP115_a3_Bhatia_Shamit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_a1_Bhatia_Shamit" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ITP115_a1_Bhatia_Shamit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_a1_Bhatia_Shamit/ITP115_a1_Bhatia_Shamit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lecture Notes 8-30-16" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture Notes/Lecture Notes 8-30-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8-25-16 Class" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_l1_Bhatia_Shamit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ITP115_a4_Bhatia_Shamit" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ITP115_a4_Bhatia_Shamit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ITP 115" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ITP115_a4_Bhatia_Shamit/ITP115_a4_Bhatia_Shamit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="10">
+      <item index="0" class="java.lang.String" itemvalue="Python.ITP115_a3_Bhatia_Shamit" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ITP115_a1_Bhatia_Shamit" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lecture Notes 8-30-16" />
+      <item index="3" class="java.lang.String" itemvalue="Python.8-25-16 Class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ITP115_a4_Bhatia_Shamit" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ITP115_a4_Kim_Christine" />
+      <item index="6" class="java.lang.String" itemvalue="Python.ITP115_a4_Komberg_Jacob_part1" />
+      <item index="7" class="java.lang.String" itemvalue="Python.ITP115_a4_Komberg_Jacob_part2" />
+      <item index="8" class="java.lang.String" itemvalue="Python.ITP115_l12_Bhatia_Shamit" />
+      <item index="9" class="java.lang.String" itemvalue="Python.CoffeeShopProgram" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.CoffeeShopProgram" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ITP115_l12_Bhatia_Shamit" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ITP115_a4_Komberg_Jacob_part2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ITP115_a4_Komberg_Jacob_part1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ITP115_a4_Kim_Christine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72ebe9eb-90c7-48ef-a267-70954bd6464d" name="Default" comment="" />
+      <created>1471996220414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471996220414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37549406" sideWeight="0.090277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16732542" sideWeight="0.9097222" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.49714285" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39789197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="6.9589424E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35605007" sideWeight="0.3375706" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992095" sideWeight="0.6624294" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.49714285" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18580376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="6.9589424E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39789197" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/ITP115_a3_ifquat_raisa.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3_Jia_Ruoxi/ITP115_a3.1_Jia_Ruoxi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3_Jia_Ruoxi/ITP115_a3.2_Jia_Ruoxi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3_Jiang_Zongyan 2.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3.1_Kim_Christine.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3.2_Kim_Christine.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3_Komberg_Jacob/ITP115_a3_Komberg_Jacob_part1.py" />
+    <entry file="file://$USER_HOME$/ITP115_a3_Komberg_Jacob/ITP115_a3_Komberg_Jacob_part2.py" />
+    <entry file="file://$USER_HOME$/ITP115_HW2_Echternach_Juliana (1)/part2.py" />
+    <entry file="file://$USER_HOME$/ITP115_A5_Lin_Theodore.py" />
+    <entry file="file://$PROJECT_DIR$/Labs/ITP115_l9_Bhatia_Shamit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/gettysburg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/ITP115_l10_Bhatia_Shamit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/A6-notasgood.py" />
+    <entry file="file://$PROJECT_DIR$/A6-notasgood.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Ahn_Joy/ITP115_a4_Ahn_Joy.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Ahn_Joy/ITP115_a4_part2_Ahn_Joy.py" />
+    <entry file="file://$USER_HOME$/itp115_a4_aller_lauren.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Anand_Neha/ITP115_a4_Anand_Neha.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Anand_Neha/ITP115_a4p2_Anand_Neha.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Cai_Yuliang/ITP115_a4_Cai_Yuliang.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Cao_Xinyi/ITP115_a4.1_Cao_Xinyi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Cao_Xinyi/ITP115_a4_Cao_Xinyi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_celaya_evan/ITP115_a4_celaya_evan_pt1.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_celaya_evan/ITP115_a4_celaya_evan_pt2.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_chen_yuzhi/ITP115_a4_chen_yuzhi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_chrystal_gavin.py" />
+    <entry file="file://$USER_HOME$/ITP115_A4_Chun_Kristian/ITP115_A4_Chun_Kristian.py" />
+    <entry file="file://$USER_HOME$/ITP115_A4_Chun_Kristian/ITP115_A4_Chun_Kristian_EncryptDecrypt.py" />
+    <entry file="file://$USER_HOME$/assignment4/ITP115_a4_dai_wenyi_p1.py" />
+    <entry file="file://$USER_HOME$/assignment4/ITP115_a4_dai_wenyi_p2.py" />
+    <entry file="file://$USER_HOME$/assignment4/ITP115_a4_dai_wenyi_p2ExC.py" />
+    <entry file="file://$USER_HOME$/homework4.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_healy_denis/ITP115_a4_healy_denis.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_ifquat_raisa.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Jia_Ruoxi/ITP115_a4.1_Jia_Ruoxi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Jia_Ruoxi/ITP115_a4.2_Jia_Ruoxi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Jia_Ruoxi/ITP115_a4.2Extra_Jia_Ruoxi.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Jiang_Zongyan.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Kim_Christine.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Komberg_Jacob/ITP115_a4_Komberg_Jacob_part1.py" />
+    <entry file="file://$USER_HOME$/ITP115_a4_Komberg_Jacob/ITP115_a4_Komberg_Jacob_part2.py" />
+    <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a7_Bhatia_Shamit/ITP115_a7_Bhatia_Shamit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/ITP115_l12_Bhatia_Shamit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/Barista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/CoffeeShopProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Other/Coffee_Lab_Fall_2017/Coffee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a9_Bhatia_Shamit/SuperheroProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a9_Bhatia_Shamit/Superhero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1478732105000" expanded="true" signature="0:129" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="155:957" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="200:318" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="342:377" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="403:432" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="458:487" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="511:538" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="573:605" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="628:722" ph="..." />
+            <marker date="1478732105000" expanded="true" signature="746:957" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a10_Bhatia_Shamit/Human.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1478790733000" expanded="true" signature="44:723" ph="..." />
+            <marker date="1478790733000" expanded="true" signature="94:270" ph="..." />
+            <marker date="1478790733000" expanded="true" signature="299:331" ph="..." />
+            <marker date="1478790733000" expanded="true" signature="371:409" ph="..." />
+            <marker date="1478790733000" expanded="true" signature="433:529" ph="..." />
+            <marker date="1478790733000" expanded="true" signature="553:723" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/ITP115_a5_Bhatia_Shamit/ITP115_a5_Bhatia_Shamit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
